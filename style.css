@@ -1,3 +1,17 @@
 .edge-design .avatar {
     border-radius: 5px !important;
 }
+
+.avatar {
+    border-radius: 5px !important;
+}
+
+.Icon--reply {
+    width: 1.07639em !important;
+    background-image: url(data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.or…1.79%204%204%204s4-1.79%204-4c0-9.925-8.075-18-18-18z%22%2F%3E%3C%2Fsvg%3E) !important;
+    -webkit-transform: scaleX(1);
+    -moz-transform: scaleX(1);
+    -ms-transform: scaleX(1);
+    -o-transform: scaleX(1);
+    transform: scaleX(1);
+}
